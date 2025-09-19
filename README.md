@@ -1,4 +1,4 @@
-# Olá, eu sou Edmo! 👋
+# Olá, eu sou o Eduardo! 👋
 
 ### Técnico em Mecatrônica | Futuro Engenheiro Mecânico | Entusiasta de Dados, IA e Machine Learning
 
